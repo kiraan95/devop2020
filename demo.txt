@@ -1,5 +1,1 @@
-welcome to devops
-
-
-
-adding new file
+welcome
